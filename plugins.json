@@ -1,0 +1,144 @@
+[
+    {
+        "iconUrl": "https://www.cinevez.pm/wp-content/uploads/2020/11/logo.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
+        "fileSize": 11485,
+        "status": 1,
+        "language": "hi",
+        "authors": [
+            "megix"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 5,
+        "internalName": "CinevezProvider",
+        "description": "This website support Hindi/English/Kannada/Malayalam/Tamil/Telugu",
+        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CinevezProvider.cs3",
+        "name": "CinevezProvider"
+    },
+    {
+        "iconUrl": "https://www.full4movies.college/wp-content/uploads/2023/12/cropped-cropped-admin-ajax-1.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
+        "fileSize": 13583,
+        "status": 1,
+        "language": "hi",
+        "authors": [
+            "megix"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 9,
+        "internalName": "Full4Movies",
+        "description": "Contains Hindi Movies and TV Series upto 1080p",
+        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/Full4Movies.cs3",
+        "name": "Full4Movies"
+    },
+    {
+        "iconUrl": "https://hdhub4u.durban/wp-content/uploads/2021/05/hdhub4ulogo.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
+        "fileSize": 13105,
+        "status": 1,
+        "language": "hi",
+        "authors": [
+            "megix"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 2,
+        "internalName": "HdHub4U",
+        "description": "Testing only movie right now",
+        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/HdHub4U.cs3",
+        "name": "HdHub4U"
+    },
+    {
+        "iconUrl": "https://katmoviehd.foo/wp-content/uploads/2022/03/cropped-cropped-KatMovie-G-S1.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
+        "fileSize": 21752,
+        "status": 1,
+        "language": "hi",
+        "authors": [
+            "megix"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "KatMoviesHD",
+        "description": "Contains Hindi Movies and TV Series upto 4K",
+        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/KatMoviesHD.cs3",
+        "name": "KatMoviesHD"
+    },
+    {
+        "iconUrl": "https://111.90.159.132/wp-content/uploads/2021/11/logo-web-online-movies-hindi.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
+        "fileSize": 10312,
+        "status": 1,
+        "language": "hi",
+        "authors": [
+            "megix"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 4,
+        "internalName": "OnlineMoviesHinditProvider",
+        "description": "Use VPN",
+        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/OnlineMoviesHinditProvider.cs3",
+        "name": "OnlineMoviesHinditProvider"
+    },
+    {
+        "iconUrl": "https://vadapav.mov/assets/favicon-32x32.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
+        "fileSize": 13021,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "megix"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "AsianDrama"
+        ],
+        "version": 5,
+        "internalName": "VadaPav",
+        "description": "Contains Movies, TV Series and Anime upto 4K",
+        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/VadaPav.cs3",
+        "name": "VadaPav"
+    },
+    {
+        "iconUrl": "https://vegamovies.cn.com/wp-content/uploads/2024/04/logo.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
+        "fileSize": 22442,
+        "status": 1,
+        "language": "hi",
+        "authors": [
+            "megix"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 27,
+        "internalName": "VegaMovies",
+        "description": "Includes LuxMovies",
+        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/VegaMovies.cs3",
+        "name": "VegaMovies"
+    }
+]
